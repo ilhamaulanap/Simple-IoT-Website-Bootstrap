@@ -1,7 +1,7 @@
 <?php
 $host ='localhost';
 $user ='bioboxmy_bioboxku';
-$pas ='moxjesdd2ff';
+$pas ='********';
 $database='bioboxmy_biobox';
 
 $konek = mysqli_connect($host,$user,$pas,$database);
