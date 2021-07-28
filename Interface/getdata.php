@@ -6,7 +6,7 @@
 
     $servername = "localhost";
     $username = "bioboxmy_bioboxku";
-    $password = "moxjesdd2ff";
+    $password = "******";
     $dbname = "bioboxmy_biobox";
     
     // Create connection
